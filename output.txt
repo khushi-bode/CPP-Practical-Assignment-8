@@ -1,0 +1,16 @@
+Test Case 1 — Normal division
+Input: 10 5
+Enter two numbers: Division = 2
+Program continues after exception handling.
+
+
+Test Case 2 — Division by zero
+Input: 5 0
+Enter two numbers: Exception caught: Division by zero is not allowed.
+Program continues after exception handling.
+
+
+Test Case 3 — Normal division
+Input: 20 4
+Enter two numbers: Division = 5
+Program continues after exception handling.
